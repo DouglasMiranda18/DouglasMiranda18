@@ -18,8 +18,6 @@
       <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
       <img src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" />
-      <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
     </div>
   </div>
   <div class="center social-links">
