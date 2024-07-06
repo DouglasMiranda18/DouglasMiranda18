@@ -7,7 +7,7 @@
   <div class="center">
     <h2>Olá, eu sou Cleiton Douglas 👋</h2>
     <div class="intro">
-      Sou um entusiasta da tecnologia com experiência em PHP e JS um pouco de C#. Tenho o sonho de me destacar nesse mundo fantástico, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou me aprofundando em PHP e explorando diferentes técnicas de gerenciamento de banco de dados.
+      Sou um entusiasta da tecnologia com experiência em PHP e JS um pouco de C#. buscando sempre aprender novas tecnologias e aprimorar minhas habilidades. Atualmente, estou me aprofundando em PHP e explorando diferentes técnicas de gerenciamento de banco de dados.
     </div>
   </div>
   <div class="center skills">
